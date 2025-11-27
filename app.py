@@ -18,7 +18,6 @@ def main():
         result = do_subtraction(a,b)
     elif user_input == "3":
         result = do_multiplication(a,b)
-        3
 
     print("Result: ", result)
 
